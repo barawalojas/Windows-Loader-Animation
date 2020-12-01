@@ -1,3 +1,4 @@
 # Windows-Loader-Animation
 Windows Loader Animation developed in HTML5 &amp; CSS3
-<img src="Preview.png" />
+<br>
+<img height="400" width="800"  src="Preview.png" />
